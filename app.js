@@ -9,7 +9,8 @@ app.use(express.json());
 let datos = {
   id: 1,
   nombre: 'Franklin',
-  profesion: 'Desarrollador'
+  profesion: 'Desarrollador',
+  universidad: 'UTN y UCR'
 };
 
 // GET - Obtener los datos
